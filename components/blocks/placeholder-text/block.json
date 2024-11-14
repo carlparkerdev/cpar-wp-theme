@@ -4,7 +4,7 @@
      "title": "Placeholder (Text)",
      "description": "a block that renders placeholder text to visualize on the page",
      "category": "cpar-blocks",
-     "keywords": ["cpar","content","contact","form"],
+     "keywords": ["cpar","content","placeholder","text"],
      "textdomain": "cpar-wp-theme",
      "acf": {
           "blockVersion": 2,
