@@ -16,7 +16,7 @@ if ( ! defined( 'ABSPATH' ) ) : exit; endif; // SILENCE IS GOLDEN ?>
 
           <div class="main-logo">
 
-               <a href="/" title="'. get_bloginfo( 'name' ) .'">
+               <a href="/" title="<?php echo get_bloginfo( 'name' ); ?>">
 
                     <img src="#" alt="#" />
 
